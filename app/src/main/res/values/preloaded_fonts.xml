@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aladin</item>
+        <item>@font/amiri_quran</item>
+        <item>@font/bentham</item>
+        <item>@font/cardo</item>
+        <item>@font/cardo_bold</item>
+    </array>
+</resources>
